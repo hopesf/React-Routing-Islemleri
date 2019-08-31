@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+
+.activelink{
+  color:white;
+  background-color: #282c34;
+  text-decoration: none;
+}
